@@ -78,9 +78,6 @@ ___
 > 🧠 *Quote of the Day (Auto-updated)*
 > ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
 
-⏰ *Coding Activity (Last 7 Days)*
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DishaParmar\&theme=radical)
-
 ---
 
 ## 🤝 Let’s Collaborate
