@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey there, I'm Disha Parmar! 👋
+Welcome to my GitHub!
+Currently building smart things with AI in Erlangen, Germany 🇩🇪
 
-<!--
-**Disha-Parmar011/Disha-parmar011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+🤖 AI explorer & MSc student at FAU Erlangen-Nürnberg
 
-Here are some ideas to get you started:
+🧬 Passionate about deep learning, computer vision, and decoding the language of proteins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Always tinkering on new projects (sometimes with too much coffee!)
+
+Fun Facts
+🏆 Best Paper at ASICS 2023 for a project predicting Parkinson’s disease symptoms
+
+🔍 Inventor on a patent for a navigational aid for the visually impaired
+
+👩‍💻 Occasionally seen racing to beat deep learning Kaggle deadlines
+
+Let's Collaborate
+Like building cool things with data or want to chat? Drop a message or explore my repos!
+
+Some favorite tools: Python, PyTorch, TensorFlow, Flask, Power BI, AWS
+
