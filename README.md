@@ -24,25 +24,6 @@ My passion lies in exploring how **deep learning, NLP, and generative models** c
 📍 Based in Erlangen, Germany
 📫 Reach me at: [parmardisha872@gmail.com](mailto:parmardisha872@gmail.com)
 
----
-
-## 💼 Experience Highlights
-
-### 🧠 Research Intern — Artificial Intelligence
-
-**TSS Consultancy Pvt. Ltd.** | *Jan 2023 – Jun 2024*
-
-* Engineered a Flask-based **automated data entry system** for financial data, improving workflow accuracy.
-* Developed **interactive dashboards** in Power BI and Tableau for KPI insights.
-* Used **AWS (S3, EC2)** for project deployment and data sharing.
-
-### 🔬 Engineering Research Scientist
-
-**Vodafone Idea Foundation** | *Jul 2022 – Sep 2022*
-
-* Built a **CNN-based MRI detection model** achieving **94% accuracy**, optimizing model interpretability and speed.
-
----
 
 ## 🧩 Featured Projects
 
@@ -74,17 +55,7 @@ My passion lies in exploring how **deep learning, NLP, and generative models** c
 
 🧩 *Currently exploring agentic AI and multimodal learning.*
 
----
-
-## 🎓 Certifications
-
-1. AI and ML - Advanced (2022)
-2. Data Science Math Skills — Duke University (2022)
-3. Machine Learning with Python — IBM (2022)
-4. Web App with Flask — Coursera (2022)
-5. MTA – Intro to Python Programming — Microsoft (2021)
-
----
+___
 
 ## 🌍 Languages
 
